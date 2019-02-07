@@ -1,0 +1,25 @@
+{
+  "name": "lambda-with-github-webhook",
+  "version": "1.0.0",
+  "description": "Higher order function which will validate AWS lambda request as a Github Webhook request, and if yes it will execute callback function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawk/lambda-with-github-webhook.git"
+  },
+  "keywords": [
+    "AWS",
+    "lambda",
+    "github",
+    "webhook"
+  ],
+  "author": "Pawk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawk/lambda-with-github-webhook/issues"
+  },
+  "homepage": "https://github.com/pawk/lambda-with-github-webhook#readme"
+}
